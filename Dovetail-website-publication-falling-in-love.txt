@@ -2,23 +2,22 @@ Dovetail website publication "falling in love"
 
 Timeline
 - my background as coding devil in ansi C, (Turbo-)Pascal, Oracle PL/SQL with Delphi front end
-- my background as Suite or IDE adept for in integration matters
-- my MuleSoft admiration period ()
-- my sabattical learnings in Java Spring REST services and Apache Camel through Java IntelliJ IDE
-- my eye opener "integration made easy" with discovery of Dovetail 
+- my background as SAO Suite and MuleSoft Studio IDE adept for in integration solutions
+- my 4,5 year MuleSoft admiration period (still going on)
+- my sabattical months learning Java Spring REST services and Apache Camel through Java IntelliJ IDE
+- my eye opener "integration made easy" with the discovery of Dovetail 
 
 Dovetail
-What a mind blowing Apache Camel graphical UI with incorporated versioning of flows and configurations.
+What a mind blowing Apache Camel graphical UI with incorporated versioning of flows and configurations!
 I immediately fell in love with the tool. Off course it helps when you have Java Apache Camel background,
 but with this magnificent tool - a true no-code web based graphical IDE - you do not need Java knowledge.
-Would I have known this tool I could have skipped Java Spring REST services and Apache Camel through Java IntelliJ IDE.
+Would I have known this tool, I could have skipped Java Spring REST services and Apache Camel through Java IntelliJ IDEand I surely would have.
 With Dovetail you have the complete Swiss army knive of Apache Camel available with configurable drag and drop
-components with which you can integrate virtually anything. And if it seems impossible you do have the fallback of
-coding in Groovy to your disposal, but believe me, most integrations don't need it.
+components with which you can integrate virtually anything. And if it, unexpectedly, seems impossible, you do have the fallback of
+coding in Groovy to your disposal, but believe me, most integrations won't need it.
 
-Why is the whole of the world not (yet) using Dovetail? At present, Dovetail is not entirely enterprise level biased.
+then, why is the whole of the world not (yet) using Dovetail? At present, Dovetail is not entirely enterprise level biased.
 Currently Dovetail aims at the small and medium sized businesses. And the pricing of Dovetail is only a third of the pricing of 
-their big brother competitors like MuleSoft, Talend, Tibco and the likes. I believe Dovetail is promised a great future.
+their big brother competitors like MuleSoft, Talend, Tibco and the likes. I strongly believe Dovetail is promised a great future.
 
 Tako de Jong, Integration Specialist, https://www.linkedin.com/in/tako-de-jong-75ab6059/
-
